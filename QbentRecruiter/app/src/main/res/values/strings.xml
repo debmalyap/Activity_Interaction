@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QbentRecruit</string>
+    <string name="first_name">Enter your first name</string>
+    <string name="last_name">Enter the last name</string>
+    <string name="age">Enter the age</string>
+    <string name="date_of_birth">Enter Date of Birth</string>
+    <string name="email">Enter email address</string>
+    <string name="contact_number">Enter contact number</string>
+    <string name="company_name">Enter company name</string>
+    <string name="submit_details">submit</string>
+    <string name="back_button">back</string>
+</resources>
